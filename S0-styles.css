@@ -6,7 +6,7 @@
 }
 @font-face {
     font-family: 'OhSnow2';
-    src: url('../font/OhSnowdemo-WyXaE.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/2O25pic/S0@latest/OhSnowdemo-WyXaE.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -430,7 +430,7 @@ span {
 
 @font-face {
     font-family: 'OhSnow';
-    src: url('../font/Kamryn3DItalic-JRK6E.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/2O25pic/S0@latest/Kamryn3DItalic-JRK6E.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
